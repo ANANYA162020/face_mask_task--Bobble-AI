@@ -1,4 +1,4 @@
-# face_mask_task-bobble_ai-
+# face_mask_task
 in this task first i have made a face directory using mkdir faces command
 then reading a paricular image and then the other through open cv
 then the data preprocessing has been done where we have specified the required dimensions of all the images or the particular image we need for processing
