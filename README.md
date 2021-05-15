@@ -9,3 +9,6 @@ then in the function crop_by_mask we are doing the masking technique where the c
 
 
 and then we just result the output 
+
+
+all the lines of the code are compiled and run by pressing the arrow on the left most side
